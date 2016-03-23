@@ -10,17 +10,17 @@ html {
 body{
   margin:0;
   padding:0;
-  font-family: 'Muli', sans-serif, 'Helvetica Neue', 'Lucida Grande';
+  font-family: 'Open Sans', sans-serif, 'Helvetica Neue', 'Lucida Grande';
 }
 
 h1, h2, h4, p{
-  font-family: 'Muli';
+  font-family: 'Open Sans';
   margin: 0;
   padding: 0;
 }
 
 h1 {
-  font-family: 'Playfair Display';
+  font-family: 'Raleway';
   font-size: 52px;
   color: #F02F23;
   letter-spacing: 0.1px;
@@ -68,7 +68,7 @@ section {
 }
 
 section h2 {
-  font-family: 'Playfair Display';
+  font-family: 'Raleway';
   color: #F02F23;
   font-weight: 700;
   font-size: 41px;
@@ -128,7 +128,7 @@ header h2 {
 }
 
 .austin {
-  font-family: 'Muli';
+  font-family: 'Open Sans';
   font-weight: 400;
   font-size: 14px;
   text-align: center;
@@ -166,7 +166,7 @@ blockquote a {
 }
 
 blockquote p {
-  font-family: 'Muli';
+  font-family: 'Open Sans';
   font-size: 15px;
   font-weight: 300;
   text-align: center;
@@ -412,7 +412,7 @@ blockquote img {
 
 .decorative {
   color: white !important;
-  font-family: 'Playfair Display';
+  font-family: 'Raleway';
   font-weight: 700;
   font-size: 42px;
   margin-top: 20px;
@@ -522,7 +522,7 @@ blockquote img {
 }
 
 .half h1 {
-  font-family: 'Playfair Display';
+  font-family: 'Raleway';
   color: #F02F23;
   font-weight: 700;
   font-size: 41px;
@@ -1034,7 +1034,7 @@ a.back-to-top {
   }
 
 blockquote p {
-  font-family: 'Muli';
+  font-family: 'Open Sans';
   font-size: 15px;
   font-weight: 300;
   text-align: center;
