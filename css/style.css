@@ -58,7 +58,7 @@ p {
   color: #5E5D5A;
   line-height: 34px;
 }
- 
+
 section {
   padding: 100px 0;
   margin: 0 auto;
@@ -211,10 +211,10 @@ blockquote img {
 
 
 #container{
-  width: 100%;    
+  width: 100%;
   background: white;
   text-align: center;
-  margin: 0 auto;    
+  margin: 0 auto;
 }
 
 .cta {
@@ -321,8 +321,8 @@ blockquote img {
 
 #toggle-view {
   float: right;
-  list-style:none;  
-  width: 60%;  
+  list-style:none;
+  width: 60%;
   font-size:11px;
   padding:0;
   text-align: left;
@@ -371,12 +371,12 @@ blockquote img {
 
 #toggle-view span {
   position:absolute;
-  right:10px; 
+  right:10px;
   top: 25px;
   color:#F02F23;
   font-size:24px;
 }
-    
+
 #toggle-view .panel {
   margin:5px 0;
   display:none;
@@ -614,7 +614,7 @@ blockquote img {
   float: right;
 }
 
-.gun_choice1, 
+.gun_choice1,
 .gun_choice2,
 .gun_choice3,
 .gun_choice4 {
@@ -630,7 +630,7 @@ blockquote img {
 
 }
 
-.gun_choice1:hover, 
+.gun_choice1:hover,
 .gun_choice2:hover,
 .gun_choice3:hover,
 .gun_choice4:hover{
@@ -656,8 +656,8 @@ blockquote img {
 }
 
 .gun_choice1 img:hover,
-.gun_choice2 img:hover, 
-.gun_choice3 img:hover, 
+.gun_choice2 img:hover,
+.gun_choice3 img:hover,
 .gun_choice4 img:hover {
   transform: scale(1.7);
   -webkit-transform: scale(1.7);
@@ -709,8 +709,8 @@ blockquote img {
 }
 
 #resources-toggle {
-  list-style:none;  
-  width: 80%;  
+  list-style:none;
+  width: 80%;
   font-size:11px;
   margin: 0 auto;
   padding:0;
@@ -736,12 +736,12 @@ blockquote img {
 
 #resources-toggle span {
   position: absolute;
-  right: 10px; 
+  right: 10px;
   top: 25px;
   color: white;
   font-size: 24px;
 }
-    
+
 #resources-toggle .rPanel {
   margin: 5px 0;
   display: none;
@@ -768,7 +768,7 @@ blockquote img {
   border-bottom: 1px solid #3D3DCA;
 }
 
-/* Footer */ 
+/* Footer */
 
 footer {
   clear: both;
@@ -785,35 +785,12 @@ footer {
   margin: 0 auto;
 }
 
-.me {
-  background: url(../images/me.jpg) no-repeat center;
-  font-size: 100px;
-  width: 200px;
-  display: block;
-  height: 200px;
-  margin: 50px auto;
-  -webkit-box-shadow: 11px 20px 169px -34px rgba(0,0,0,0.35);
--webkit-box-shadow: 11px 20px 169px -34px rgba(0,0,0,0.92);
--moz-box-shadow: 11px 20px 169px -34px rgba(0,0,0,0.92);
-box-shadow: 11px 20px 169px -34px rgba(0,0,0,0.92);
-}
-
-.me:hover {
-  transform: rotate(360deg);
-  -webkit-transform: rotate(360deg);
-  -moz-transform: rotate(360deg);
-}
-
 .emoji {
   margin-top: 50px;
   margin-left: 50px;
   text-align: center;
   position: relative;
   width: 100px;
-}
-
-.me:hover .emoji {
-  display: none;
 }
 
 footer p {
@@ -974,7 +951,7 @@ a.back-to-top {
     width: 100%;
     margin: 0 auto;
   }
- 
+
   cite {
     margin: 0 auto;
     float: none;
@@ -1086,4 +1063,3 @@ blockquote img {
 
 
 }
-

@@ -16,4 +16,4 @@ gulp.task('watch', function(){
 	gulp.watch( htmlTemplates + '/*', ['build'] );
 });
 
-gulp.task('default', ['build'])
+gulp.task('default', ['build', 'watch'])
