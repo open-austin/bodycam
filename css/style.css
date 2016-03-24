@@ -69,7 +69,7 @@ section {
 
 section h2 {
   font-family: 'Raleway';
-  color: #F02F23;
+  color: #EA6036;
   font-weight: 700;
   font-size: 41px;
   line-height: 1.4em;
@@ -243,7 +243,7 @@ blockquote img {
 }
 
 .primary {
-  background-color: rgba(0,51,204,.8);
+  background-color: #EA6036;
   border: 0;
 }
 
@@ -758,14 +758,14 @@ blockquote img {
 .rPanel ul, .rPanel li a, .rpanel li{
   border-bottom: none;
   text-decoration: none;
-  color: #3D3DCA;
+  color: #ffffff;
   font-size: 18px;
   line-height: 1.9em;
 }
 
 .rPanel li a:hover {
   padding-bottom: 5px;
-  border-bottom: 1px solid #3D3DCA;
+  border-bottom: 1px solid #ffffff;
 }
 
 /* Footer */
