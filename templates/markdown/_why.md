@@ -1,0 +1,6 @@
+
+##  Why should we care about police with body cameras?
+
+Body cameras don’t necessarily change how police or civilians behave, but they can show us how we all behave, and sometimes we behave badly. If body camera video is always released to the public, we can have a reasonable debate about the next step – the path to better police/community relations. But if police can decide to release some videos but not others, the community will believe the police are protecting their own at the expense of community safety and respect.
+
+[image](https://www.washingtonpost.com/video/national/police-body-cameras-no-oversight-silver-bullet/2015/10/08/2f97f7d0-6e07-11e5-91eb-27ad15c2b723_video.html)

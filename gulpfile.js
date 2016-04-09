@@ -1,8 +1,16 @@
 var gulp = require('gulp');
 var fileinclude = require('gulp-file-include');
 var rename = require( 'gulp-rename' );
+var markdown = require( 'gulp-markdown' );
 
 var htmlTemplates = ['./templates/'];
+var markdownTemplates = ['./templates/markdown/'];
+
+gulp.task('markdown', function(){
+  return gulp.src([markdownTemplates + '*.md'])
+  .pipe(markdown())
+  .pipe(gulp.dest('./templates/'));
+})
 
 gulp.task('build', function() {
   gulp.src([htmlTemplates + '*.tpl.html'])
@@ -14,6 +22,7 @@ gulp.task('build', function() {
 
 gulp.task('watch', function(){
 	gulp.watch( htmlTemplates + '/*', ['build'] );
+	gulp.watch( markdownTemplates + '/*', ['markdown'] );
 });
 
-gulp.task('default', ['build', 'watch'])
+gulp.task('default', ['markdown', 'build', 'watch'])
