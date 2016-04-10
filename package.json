@@ -9,7 +9,8 @@
     "gulp-file-include": "^0.13.7",
     "gulp-markdown": "^1.2.0",
     "gulp-markdown-it": "^0.1.1",
-    "gulp-rename": "^1.2.2"
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.2.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"

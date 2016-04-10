@@ -1,0 +1,32 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *:before, *:after {
+  box-sizing: inherit;
+  transition: all 0.3s ease-out;
+}
+
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Open Sans', sans-serif, 'Helvetica Neue', 'Lucida Grande';
+}
+
+#container {
+  width: 100%;
+  background: white;
+  text-align: center;
+  margin: 0 auto;
+  padding: 15px 0;
+}
+
+.inner_content {
+  width: 70%;
+  margin: 0 auto;
+  max-width: 1100px;
+}
+
+.section {
+  padding: 15px 0;
+}

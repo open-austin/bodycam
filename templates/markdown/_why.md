@@ -1,3 +1,4 @@
+<img class="svg svg--camera" src="/images/icons/camera.svg"/>
 
 ##  Who controls the footage?
 

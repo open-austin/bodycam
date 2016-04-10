@@ -1,0 +1,29 @@
+footer {
+  clear: both;
+  background-color: #EA6036;
+  width: 100%;
+  padding: 50px 0 120px 0;
+  color: white;
+  overflow: hidden;
+}
+
+.about {
+  width: 70%;
+  text-align: center;
+  margin: 0 auto;
+}
+
+footer {
+  p {
+    padding: 0;
+    color: white;
+  }
+  a {
+    color: white;
+    border-bottom: 1px solid white;
+    &:hover {
+     color: red;
+     border-bottom: 1px solid red;
+    }
+  }
+}

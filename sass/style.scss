@@ -1,122 +1,3 @@
-html {
-  box-sizing: border-box;
-}
-
-*, *:before, *:after {
-  box-sizing: inherit;
-  transition: all 0.3s ease-out;
-}
-
-body{
-  margin:0;
-  padding:0;
-  font-family: 'Open Sans', sans-serif, 'Helvetica Neue', 'Lucida Grande';
-}
-
-h1, h2, h4, p{
-  font-family: 'Open Sans';
-  margin: 0;
-  padding: 0;
-}
-
-h1 {
-  font-family: 'Raleway';
-  font-size: 52px;
-  color: #F02F23;
-  letter-spacing: 0.1px;
-  line-height: 1.1em;
-}
-
-h2 {
-  font-weight: 300;
-  font-size: 30px;
-  line-height: 1.6em;
-}
-
-h3 {
-  font-weight: 400;
-  font-size: 18px;
-  text-transform: uppercase;
-  line-height: 1.6em;
-  letter-spacing: 1.5px;
-}
-
-a {
-  color: #F02F23;
-  text-decoration: none;
-  padding-bottom: 5px;
-  border-bottom: 1px solid #F02F23;
-}
-
-a:hover {
-  color: #0033cc;
-  border-bottom: 1px solid #0033cc;
-}
-
-p {
-  font-size: 23px;
-  color: #5E5D5A;
-  line-height: 34px;
-}
-
-section {
-  padding: 100px 0;
-  margin: 0 auto;
-  width: 100%;
-  display: block;
-  overflow: auto;
-}
-
-section h2 {
-  font-family: 'Raleway';
-  color: #EA6036;
-  font-weight: 700;
-  font-size: 41px;
-  line-height: 1.4em;
-  margin-bottom: 30px;
-}
-
-section h3 {
-  font-weight: 400;
-  font-size: 17px;
-  color: #545454;
-  letter-spacing: 1.69px;
-  line-height: 34px;
-  text-transform: uppercase;
-}
-
-section p {
-  padding: 20px 0;
-}
-
-header {
-  width: 100%;
-  text-align: center;
-  position: relative;
-  top: 50%;
-  transform: translateY(-50%);
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-}
-
-header h1 {
-  font-size: 70px;
-  padding-bottom: 0px;
-  font-weight: 900;
-  text-align: center;
-  letter-spacing: 1.3px;
-  color: white;
-}
-
-header h2 {
-  font-size: 35px;
-  font-weight: 600;
-  color: white;
-  line-height: 1.2em;
-  margin: 20px 0;
-  letter-spacing: .8px;
-}
-
 .texture:before {
   content: '';
   background: url(../images/img-noise-361x370.png) repeat;
@@ -127,59 +8,10 @@ header h2 {
   width: 100%;
 }
 
-.austin {
-  font-family: 'Open Sans';
-  font-weight: 400;
-  font-size: 14px;
-  text-align: center;
-  letter-spacing: 3.5px;
-  margin: 0;
-  padding: 0;
-  color: white;
-}
-
 .video {
     padding: 60px 0;
     height:100vh;
     overflow: hidden;
-}
-
-header h4 {
-  font-size: 21px;
-  color: white;
-  line-height: 1.6em;
-  letter-spacing: .7px;
-}
-
-blockquote {
-  margin: 30px 20px 0 20px;
-  padding: 20px;
-  background: url(../images/x.gif) rgba(0, 0, 0, 0.3); repeat;
-  border-radius: 3px;
-  width: 100%;
-  float: left;
-}
-
-blockquote a {
-  color: white;
-  border: none;
-}
-
-blockquote p {
-  font-family: 'Open Sans';
-  font-size: 15px;
-  font-weight: 300;
-  text-align: center;
-  letter-spacing: .5px;
-  color: white;
-  padding-top: 0;
-}
-
-blockquote img {
-  width: 90px;
-  border-radius: 50px;
-  margin: 0 0 12px 0;
-  border: 2px solid #ccc;
 }
 
 .credit {
@@ -188,15 +20,16 @@ blockquote img {
   text-align: center;
   margin: 10px 0;
 }
+
 .name {
   margin-bottom: 5px;
   line-height: 1.7em;
   font-size: 14px;
 }
+
 .credit a {
   font-size: 12px;
 }
-
 
 .quote {
   float: right;
@@ -208,39 +41,12 @@ blockquote img {
   line-height: 1.6em;
 }
 
-
-
-#container{
-  width: 100%;
-  background: white;
-  text-align: center;
-  margin: 0 auto;
-}
-
 .cta {
   display: inline-block;
   margin: 40px 10px;
 }
 
-.btn {
-  position: relative;
-  border: 1px solid blue;
-  color: #fff;
-  cursor: pointer;
-  display: inline-block;
-  font-size: 18px;
-  width: 45%;
-  margin: 50px 0.2em 0 0.2em;
-  padding: 15px;
-  border-radius: 6px;
-  text-align: center;
-  line-height: 1.6em;
-  text-decoration: none;
-}
 
-.btn:hover {
-  opacity: .8;
-}
 
 .primary {
   background-color: #EA6036;
@@ -271,20 +77,6 @@ blockquote img {
   width: 100%;
 }
 
-.video-content {
-  width: 55%;
-  max-width: 650px;
-  padding-top: 20px;
-  margin: 0 auto;
-  color: white;
-  overflow: hidden;
-}
-
-.inner_content {
-  width: 70%;
-  margin: 0 auto;
-  max-width: 1100px;
-}
 
 /*Requirements List Toggle */
 
@@ -768,46 +560,6 @@ blockquote img {
   border-bottom: 1px solid #ffffff;
 }
 
-/* Footer */
-
-footer {
-  clear: both;
-  background-color: #EA6036;
-  width: 100%;
-  padding: 50px 0 120px 0;
-  color: white;
-  overflow: hidden;
-}
-
-.about {
-  width: 70%;
-  text-align: center;
-  margin: 0 auto;
-}
-
-.emoji {
-  margin-top: 50px;
-  margin-left: 50px;
-  text-align: center;
-  position: relative;
-  width: 100px;
-}
-
-footer p {
-  padding: 0;
-  color: white;
-}
-
-footer a {
-  color: white;
-  border-bottom: 1px solid white;
-}
-
-footer a:hover {
-  color: red;
-  border-bottom: 1px solid red;
-
-}
 
 /* Back to Top */
 a.back-to-top {
@@ -917,11 +669,6 @@ a.back-to-top {
     background-size: cover;
   }
 
-  blockquote {
-    text-align: left;
-    width: 100%;
-  }
-
   .gun_choice1, .gun_choice2, .gun_choice3, .gun_choice4 {
     float: none;
     margin-bottom: 10px;
@@ -950,11 +697,6 @@ a.back-to-top {
     float: none;
     width: 100%;
     margin: 0 auto;
-  }
-
-  cite {
-    margin: 0 auto;
-    float: none;
   }
 
   .me {
@@ -1027,29 +769,9 @@ a.back-to-top {
   .btn {
     margin: 20px 0 0 0;
   }
-
-  blockquote {
-    padding: 40px 0px;
-    margin: 10px auto;
-  }
-
-blockquote p {
-  font-family: 'Open Sans';
-  font-size: 15px;
-  font-weight: 300;
-  text-align: center;
-  letter-spacing: .5px;
-  color: white;
-  padding: 0;
-  width: 94%;
 }
 
-blockquote img {
-  width: 90px;
-  border-radius: 50px;
-  margin: 0 0 12px 0;
-  border: 2px solid #ccc;
-}
+
 
 .credit {
   width: 100%;
@@ -1061,8 +783,6 @@ blockquote img {
   width: 93%;
 }
 
-
-}
 
 .fullscreen-hero {
   height: 100vh;

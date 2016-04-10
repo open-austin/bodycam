@@ -1,0 +1,37 @@
+header {
+  width: 100%;
+  text-align: center;
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  h1 {
+    font-size: 70px;
+    padding-bottom: 0px;
+    font-weight: 900;
+    text-align: center;
+    letter-spacing: 1.3px;
+    color: white;
+    margin-bottom: .5rem;
+  }
+  h4 {
+    font-size: 16px;
+    color: white;
+    line-height: 1.6em;
+    letter-spacing: .7px;
+  }
+  p {
+    color: white;
+    font-family: $primary-serif;
+  }
+}
+
+.hero-content {
+  width: 55%;
+  max-width: 650px;
+  padding-top: 20px;
+  margin: 0 auto;
+  color: white;
+  overflow: hidden;
+}
