@@ -1,3 +1,43 @@
-.svg--camera {
+.svg {
   width: 100px;
+}
+
+.section--alt-bg {
+  background-color: rgba(247, 210, 188, 0.44);
+}
+
+.section {
+  ul {
+    font-size: 18px;
+  }
+}
+
+.half {
+  width: 50%;
+  padding: 4%;
+  float: left;
+  border-right: 2px dashed #ccc;
+  text-align: center;
+  margin: 40px 0;
+  h1 {
+    font-family: 'Raleway';
+    color: #F02F23;
+    font-weight: 700;
+    font-size: 41px;
+    line-height: 1.4em;
+    margin: 20px auto;
+    text-align: center;
+  }
+  p {
+    padding: 0;
+  }
+}
+
+.half--right {
+  @extend .half;
+  float: right;
+  border: none;
+  h1 {
+    color: #0033cc;
+  }
 }

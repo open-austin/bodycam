@@ -21,7 +21,7 @@ body {
   padding: 15px 0;
 }
 
-.inner_content {
+.inner-content {
   width: 70%;
   margin: 0 auto;
   max-width: 1100px;
@@ -29,4 +29,12 @@ body {
 
 .section {
   padding: 15px 0;
+}
+
+.full {
+  width: 100%;
+}
+
+.inline-block {
+  display: inline-block;
 }
