@@ -1,4 +1,4 @@
-# The Vendors: Taser International
+## The Vendors: Taser International
 
 Who is making money off all this (always a good thing to ask): Taser International [https://www.taser.com/]. There are only a handful of companies that provide body camera technology and services. Austin has picked Taser, a big police and military contractor, as its vendor. Taser’s recent growth, as reported in its March 2016 financial report [http://www.sec.gov/Archives/edgar/data/1069183/000106918316000148/a10ktasr123115.htm] has been largely driven by its police body camera offerings (weapons segment growth, 12%; camera segment growth, 88%.)
 
