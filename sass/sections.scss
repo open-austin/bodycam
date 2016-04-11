@@ -9,16 +9,19 @@
 .section {
   ul {
     font-size: 18px;
+    list-style: inherit;
+    text-align: left;
+    line-height: 1.5rem;
   }
 }
 
 .half {
   width: 50%;
-  padding: 4%;
+  padding: 0 4%;
   float: left;
   border-right: 2px dashed #ccc;
   text-align: center;
-  margin: 40px 0;
+  margin: 20px 0;
   h1 {
     font-family: 'Raleway';
     color: #F02F23;

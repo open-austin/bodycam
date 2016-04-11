@@ -1,7 +1,21 @@
+<img class="svg" src="images/icons/money-bag.svg"/>
+
 ## The Vendors: Taser International
 
-Who is making money off all this (always a good thing to ask): Taser International [https://www.taser.com/]. There are only a handful of companies that provide body camera technology and services. Austin has picked Taser, a big police and military contractor, as its vendor. Taser’s recent growth, as reported in its March 2016 financial report [http://www.sec.gov/Archives/edgar/data/1069183/000106918316000148/a10ktasr123115.htm] has been largely driven by its police body camera offerings (weapons segment growth, 12%; camera segment growth, 88%.)
+### Who is making money off all this?
 
-Taser has a great business model. It sells weapons for which you have to buy cartridges, like you do for your home printer. And it sells cameras, then offers data storage services [its “Evidence.com” product.] Sometimes it will just give away the cameras in order to secure that long term data storage contract.
-[can we have a pull quote? From their 10k filed with the SEC: “Evidence.com, Axon cameras and related accessories are sometimes sold separately, but in most instances are sold together. In these instances, customers typically purchase and pay for the equipment and one year of Evidence.com in advance. Additional years of service are generally billed annually over a specified service term, which has typically ranged from one to five years. Axon equipment represents a deliverable that is provided to the customer at the time of sale, while Evidence.com services are provided over the specified term of the contract…At times the Company subsidizes the cost of Axon devices provided to customers to secure long-term Evidence.com service contracts.]
-APD has not yet released the new Taser contract. We will post it here as soon as we get it.
+There are only a handful of companies that provide body camera technology and services. Austin Police Department has picked [Taser International](https://www.taser.com/), a big police and military contractor, as its vendor. Taser’s recent growth, as reported in its [March 2016 financial report](http://www.sec.gov/Archives/edgar/data/1069183/000106918316000148/a10ktasr123115.htm) has been largely driven by its police body camera offerings
+
+### Weapons segment growth, 12%
+<img class="svg" src="images/icons/bullet.svg"/>
+
+### Camera segment growth, 88%.
+<img class="svg" src="images/icons/camera.svg"/>
+
+Taser has a great business model. It sells weapons for which you have to buy cartridges, like you do for your home printer. And it sells cameras, then offers data storage services (called Evidence.com). Sometimes it will just give away the cameras in order to secure that long term data storage contract.
+
+> “Evidence.com, Axon cameras and related accessories are sometimes sold separately, but in most instances are sold together. In these instances, customers typically purchase and pay for the equipment and one year of Evidence.com in advance. Additional years of service are generally billed annually over a specified service term, which has typically ranged from one to five years.
+
+> -- Taser's 10k filed with the SEC
+
+_APD has not yet released the contact details of their new agreement with Taser. We will post it here as soon as it's available._

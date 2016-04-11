@@ -612,10 +612,11 @@ body {
 .inner-content {
   width: 70%;
   margin: 0 auto;
-  max-width: 1100px; }
+  max-width: 1100px;
+  display: inline-block; }
 
 .section {
-  padding: 15px 0; }
+  padding: 40px 0; }
 
 .full {
   width: 100%; }
@@ -642,7 +643,7 @@ h2 {
 
 h3 {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 24px;
   text-transform: uppercase;
   line-height: 1.6em;
   letter-spacing: 1.5px; }
@@ -673,21 +674,18 @@ p {
 
 blockquote {
   margin: 10px auto;
-  padding: 40px 0px;
-  background: url(../images/x.gif) rgba(0, 0, 0, 0.3) repeat;
-  border-radius: 3px;
-  width: 100%;
-  float: left; }
+  padding: 10px;
+  width: 70%;
+  border-left: 10px solid #5E5D5A; }
   blockquote a {
     color: white;
     border: none; }
   blockquote p {
     font-family: 'Open Sans';
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 300;
     text-align: center;
     letter-spacing: .5px;
-    color: white;
     padding-top: 0; }
   blockquote img {
     width: 90px;
@@ -698,6 +696,9 @@ blockquote {
 cite {
   margin: 0 auto;
   float: none; }
+
+ul {
+  color: #5E5D5A; }
 
 .btn {
   position: relative;
@@ -756,15 +757,18 @@ header {
   background-color: rgba(247, 210, 188, 0.44); }
 
 .section ul {
-  font-size: 18px; }
+  font-size: 18px;
+  list-style: inherit;
+  text-align: left;
+  line-height: 1.5rem; }
 
 .half, .half--right {
   width: 50%;
-  padding: 4%;
+  padding: 0 4%;
   float: left;
   border-right: 2px dashed #ccc;
   text-align: center;
-  margin: 40px 0; }
+  margin: 20px 0; }
   .half h1, .half--right h1 {
     font-family: 'Raleway';
     color: #F02F23;

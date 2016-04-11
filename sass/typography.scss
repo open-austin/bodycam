@@ -1,6 +1,5 @@
 h1, h2, h4, p {
   font-family: $primary-sans-serif;
-  // margin: 0;
   padding: 0;
 }
 
@@ -21,7 +20,7 @@ h2 {
 
 h3 {
   font-weight: 400;
-  font-size: 18px;
+  font-size: 24px;
   text-transform: uppercase;
   line-height: 1.6em;
   letter-spacing: 1.5px;
@@ -51,57 +50,25 @@ a:hover {
 
 p {
   font-size: 23px;
-  color: #5E5D5A;
+  color: $dark-grey;
   line-height: 34px;
 }
 
-// section {
-//   padding: 100px 0;
-//   margin: 0 auto;
-//   width: 100%;
-//   display: block;
-//   overflow: auto;
-//   h2 {
-//     font-family: 'Raleway';
-//     color: #EA6036;
-//     font-weight: 700;
-//     font-size: 41px;
-//     line-height: 1.4em;
-//     margin-bottom: 30px;
-//   }
-//   h3 {
-//     font-weight: 400;
-//     font-size: 17px;
-//     color: #545454;
-//     letter-spacing: 1.69px;
-//     line-height: 34px;
-//     text-transform: uppercase;
-//   }
-//   p {
-//     padding: 20px 0;
-//   }
-// }
-//
-
-
 blockquote {
   margin: 10px auto;
-  padding: 40px 0px;
-  background: url(../images/x.gif) rgba(0, 0, 0, 0.3) repeat;
-  border-radius: 3px;
-  width: 100%;
-  float: left;
+  padding: 10px;
+  width: 70%;
+  border-left: 10px solid $dark-grey;
   a {
     color: white;
     border: none;
   }
   p {
     font-family: 'Open Sans';
-    font-size: 15px;
+    font-size: 16px;
     font-weight: 300;
     text-align: center;
     letter-spacing: .5px;
-    color: white;
     padding-top: 0;
   }
   img {
@@ -115,4 +82,8 @@ blockquote {
 cite {
   margin: 0 auto;
   float: none;
+}
+
+ul {
+  color: $dark-grey;
 }
