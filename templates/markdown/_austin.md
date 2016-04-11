@@ -1,4 +1,4 @@
-<img class="svg svg--austin" src="/images/icons/austin.svg"/>
+<img class="svg svg--austin" src="images/icons/austin.svg"/>
 
 ## Austin can do better
 
