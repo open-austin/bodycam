@@ -1,0 +1,21 @@
+---
+# Main Sass file
+---
+
+// Original CSS
+// Deflate and Extract at will
+@import 'style';
+
+// Sass to compile...
+// Order matters!
+
+// BASICS
+@import 'variables';
+@import 'base';
+@import 'typography';
+@import 'buttons';
+
+// LAYOUTS & COMPONENTS
+@import 'header';
+@import 'sections';
+@import 'footer';

@@ -1,184 +1,41 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-<title>Austin Body Camera</title>
-<meta name="keywords" content="open carry, open carry austin, texas, concealed carry, concealed carry austin, gun laws">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<link rel="stylesheet" href="css/normalize.css">
-<link rel="stylesheet" href="css/main.css">
-<link href='https://fonts.googleapis.com/css?family=Raleway:400,800,400italic|Open+Sans:400,700,400italic' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Playfair+Display:400,700,400italic' rel='stylesheet' type='text/css'>
+---
+layout: default
+---
 
-</head>
+{% include hero.html %}
 
-<body>
-	<section class="video">
-  <div class="fullscreen-bg">
-    <div class="texture">
-      <img src="images/4-mounted-cops.jpg" alt="Four Police on Horseback patrol 6th street" class="fullscreen-hero"/>
+<div id="container">
+  <section class="section">
+    <div class="inner-content">
+      <h2>"Body Cameras are a sign of the times..."</h2>
+      <iframe width="640" height="400" scrolling="no" src="//www.washingtonpost.com/video/c/embed/2f97f7d0-6e07-11e5-91eb-27ad15c2b723" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
     </div>
-  </div>
-  <header>
-    <h1>Police Body Cameras</h1>
-    <h4>IN AUSTIN, TEXAS</h4>
-    <div class="inner_content hero-content">
-      <p>Austin Police Department (APD) will soon be equipped with body-worn cameras. Find out more about what this technology means for police accountability, government transparency and individual privacy.</p>
-      <a class="btn primary" href="#texas-law">Learn the Law</a>
-    </div>
-  </header>
-</section>
+  </section>
+  <section class="section section--alt-bg">
+    <div class="inner-content">{% markdown why.md %}</div>
+  </section>
+  <section class="section">
+    <div class="inner-content">{% include texas.html %}</div>
+  </section>
+  <section class="section section--alt-bg">
+    <div class="inner-content">{% markdown austin.md %}</div>
+  </section>
+  <section class="section">
+    <div class="inner-content">{% include privacy_and_accountability.html %}</div>
+  </section>
+  <section>
+    <div class="inner-content">{% markdown opt_in.md %}</div>
+  </section>
+  <section class="section"><div class="inner-content">{% markdown vendors.md %}</div></section>
+  <section class="section"><div class="inner-content">{% markdown resources.md %}</div></section>
 
-
-	<div id="container">
-		<section class="section">
-			<div class="inner-content">
-				<h2>"Body Cameras are a sign of the times..."</h2>
-				<iframe width="640" height="400" scrolling="no" src="//www.washingtonpost.com/video/c/embed/2f97f7d0-6e07-11e5-91eb-27ad15c2b723" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-			</div>
-		</section>
-		<section class="section section--alt-bg">
-			<div class="inner-content"><p><img class="svg svg--camera" src="images/icons/camera.svg"/></p>
-<h2 id="who-controls-the-footage-">Who controls the footage?</h2>
-<p>If police can decide to release some videos but not others, the community will suspect the police of protecting their own interests at the expense of community safety, accountability and respect.</p>
-</div>
-		</section>
-		<section class="section">
-			<div class="inner-content"><img class="svg svg--texas" src="images/icons/texas.svg"/>
-
-<h2 id="texas-law">In 2015, Texas passed a body cam law</h2>
-
-<div class="half">
-  <img class="svg svg--thumbs-up" src="images/icons/thumbs-up.svg"/>
-  <h3 id="the-good-">The good:</h3>
-  <ul>
-    <li>A grant program has encouraged widespread adoption of body cameras, including here in Austin.</li>
-    <li>Civilians who file a complaint against an officer will be able to view the video at some point.</li>
-    <li>Departments must keep the video for at least 90 days. Cities can have local policies that improve on the state framework.</li>
-  </ul>
 </div>
 
-<div class="half--right">
-  <img class="svg svg--thumbs-down" src="images/icons/thumbs-down.svg"/></p>
-  <h3 id="the-bad-">The bad:</h3>
-  <ul>
-    <li>Officers, but not civilians, will be allowed to review the video of an incident before making a statement.</li>
-    <li>Cities can refuse to release video of major incidents to the public, just like Chicago, unless the local policy says otherwise.</li>
-    <li>Video could be recording when an officer walks into your home.</li>
-  </ul>
-</div>
-
-<div class="full inline-block">
-  <a href="http://www.capitol.state.tx.us/tlodocs/84R/billtext/html/SB00158F.htm" class="btn primary">Read the Texas Law</a>
-</div>
-</div>
-		</section>
-		<section class="section section--alt-bg">
-			<div class="inner-content"><p><img class="svg svg--austin" src="images/icons/austin.svg"/></p>
-<h2 id="austin-can-do-better">Austin can do better</h2>
-<p>The city-wide conversation about how this should work is just getting started, but the <a href="http://www.austintexas.gov/sites/default/files/files/Police/113016_highlights_body_worn_camera.pdf">draft policy</a> released in Winter 2015 does not address these issues at all. Austin can require APD be both more transparent and more accountable by demanding the city follow broad principles like these:</p>
-<ul>
-<li>Transparency and accountability are  “law enforcement purposes”</li>
-<li>All critical incident video (officer involved death or injury) will be promptly released to the public;</li>
-<li>Each Austinite can decide for ourselves if a video involving us should be public or not</li>
-<li>The video material held by APD should not be used for general surveillance or aggregated with other data  </li>
-</ul>
-</div>
-		</section>
-		<section class="section">
-			<div class="inner-content"><img class="svg svg--balance" src="images/icons/balance.svg"/>
-
-<h2 id="austin-can-balance-privacy-and-accountability">Austin can balance privacy and accountability</h2>
-
-<div class="half">
-  <h3 id="privacy">Privacy</h3>
-  <p>Austin can give people control over our privacy by requiring, at the end of an ordinary interaction (traffic stop, street encounter), that officers tell us that we have been taped and ask if we wish to opt-in to public release. Opt-in/Opt-out choices are a familiar way to facilitate the level of privacy different people prefer.</p>
-</div>
-
-<div class="half--right">
-  <h3 id="transparency">Transparency</h3>
-  <p>Austin can decide that transparency and accountability are integral to effective law enforcement and that the city will promptly release audio and video of all critical incidents (shootings, injuries). The city can facilitate release all video where a person has opted-in by posting the file to an open site with all the state-law required information.</p>
-</div>
-</div>
-		</section>
-		<section>
-			<div class="inner-content"><p><img class="svg" src="images/icons/check.svg"/></p>
-<h2 id="how-would-an-opt-in-program-work-">How would an Opt-in Program work?</h2>
-<h3 id="roadside-stop">Roadside stop</h3>
-<p><img class="svg" src="images/icons/police-car.svg"/></p>
-<p>Police officers already collect basic information at traffic stops for the court and for required state reporting. Officers could briefly disclose that the encounter was taped and ask the driver if they wish to allow the video to be released to the public. This yes/no choice would be retained as metadata with the video file along with the other standard information.</p>
-<h3 id="in-your-home">In your home</h3>
-<p><img class="svg" src="images/icons/home-search.svg"/></p>
-<p>The city still must decide what officers will do in private homes. Where video is taken but no one is being arrested, officers can offer civilians a choice to opt for public disclosure or not, just as they can do at traffic stops. But in many cases, it may be inappropriate for officers to be taping in your home and they should ask for your consent in advance. Meanwhile, it may be inappropriate for you to decide what is taped if you are being arrested for a crime. SWAT invasions should all be taped.</p>
-<h3 id="on-the-street">On the street</h3>
-<p><img class="svg" src="images/icons/police-anon.svg"/></p>
-<p>Officers walking along 6th street, surrounding a protest at the Capitol, or infiltrating the Republic of Texas biker rally may have their cameras on all the time or nearly all the time. Last summer, Chief Acevedo announced to the bikers, &quot;We will be staffed up to 100 percent and we will have undercover officers in crowds and will have eyes and ears in places people won&#39;t see us.&quot; This summer those officers may be taping. Should such video be uploaded to federal and state databases, crossed with facial recognition software and added to the surveillance apparatus? That’s a debate Austin should have before someone else decides.</p>
-</div>
-		</section>
-		<section class="section"><div class="inner-content"><p><img class="svg" src="images/icons/money-bag.svg"/></p>
-<h2 id="the-vendors-taser-international">The Vendors: Taser International</h2>
-<h3 id="who-is-making-money-off-all-this-">Who is making money off all this?</h3>
-<p>There are only a handful of companies that provide body camera technology and services. Austin Police Department has picked <a href="https://www.taser.com/">Taser International</a>, a police and military contractor, as its vendor. Taser’s recent growth, as reported in its <a href="http://www.sec.gov/Archives/edgar/data/1069183/000106918316000148/a10ktasr123115.htm">March 2016 financial report</a> has been largely driven by its police body camera offerings</p>
-<h3 id="weapons-segment-growth-12-">Weapons segment growth, 12%</h3>
-<p><img class="svg" src="images/icons/bullet.svg"/></p>
-<h3 id="camera-segment-growth-88-">Camera segment growth, 88%.</h3>
-<p><img class="svg" src="images/icons/camera.svg"/></p>
-<p>Taser has a great business model. It sells weapons for which you have to buy cartridges, like you do for your home printer. And it sells cameras, then offers data storage services (called Evidence.com). Sometimes it will entice cities with below cost cameras in order to secure that long term data storage contract.</p>
-<blockquote>
-<p>“Evidence.com, Axon cameras and related accessories are sometimes sold separately, but in most instances are sold together. In these instances, customers typically purchase and pay for the equipment and one year of Evidence.com in advance. Additional years of service are generally billed annually over a specified service term, which has typically ranged from one to five years. At times the Company subsidizes the cost of Axon devices provided to customers to secure long-term Evidence.com service contracts.</p>
-<p>-- Taser&#39;s 10k filed with the SEC</p>
-</blockquote>
-<p><em>APD has not yet released the contact details of their new agreement with Taser. We will post it here as soon as it&#39;s available.</em></p>
-</div></section>
-		<section class="section"><div class="inner-content"><h2 id="resources">Resources</h2>
-<h3 id="first-cut-are-body-cameras-making-police-more-accountable-">First cut: Are body cameras making police more accountable?</h3>
-<ul>
-<li><a href="https://ccrjustice.org/home/blog/2016/03/09/rush-body-cameras-does-little-create-police-accountability">https://ccrjustice.org/home/blog/2016/03/09/rush-body-cameras-does-little-create-police-accountability</a></li>
-<li><a href="https://www.washingtonpost.com/video/national/police-body-cameras-no-oversight-silver-bullet/2015/10/08/2f97f7d0-6e07-11e5-91eb-27ad15c2b723_video.html">https://www.washingtonpost.com/video/national/police-body-cameras-no-oversight-silver-bullet/2015/10/08/2f97f7d0-6e07-11e5-91eb-27ad15c2b723_video.html</a></li>
-<li><a href="http://www.huffingtonpost.com/entry/kansas-police-body-camera-law_us_56bca6e6e4b0b40245c57776">http://www.huffingtonpost.com/entry/kansas-police-body-camera-law_us_56bca6e6e4b0b40245c57776</a></li>
-<li><a href="http://www.latimes.com/politics/la-pol-sac-police-body-camera-bills-20160320-story.html">http://www.latimes.com/politics/la-pol-sac-police-body-camera-bills-20160320-story.html</a></li>
-<li><a href="http://isp.yale.edu/sites/default/files/publications/police_body_camera_footage-_just_another_public_record.pdf">http://isp.yale.edu/sites/default/files/publications/police_body_camera_footage-_just_another_public_record.pdf</a></li>
-<li><a href="http://www.policemisconduct.net/explainers/police-body-cameras/">http://www.policemisconduct.net/explainers/police-body-cameras/</a></li>
-<li><a href="http://apps.urban.org/features/body-camera/">http://apps.urban.org/features/body-camera/</a></li>
-<li><a href="https://www.aclu.org/police-body-mounted-cameras-right-policies-place-win-all">https://www.aclu.org/police-body-mounted-cameras-right-policies-place-win-all</a></li>
-</ul>
-<h3 id="deep-cut-getting-more-wonky-">Deep cut: Getting more wonky...</h3>
-<ul>
-<li><a href="http://www.charleshamiltonhouston.org/wp-content/uploads/2015/05/Independent-Lens-Cvr-Guts.pdf">http://www.charleshamiltonhouston.org/wp-content/uploads/2015/05/Independent-Lens-Cvr-Guts.pdf</a>
-  - <a href="http://cebcp.org/wp-content/technology/BodyWornCameraResearch.pdf">http://cebcp.org/wp-content/technology/BodyWornCameraResearch.pdf</a></li>
-<li><a href="https://www.bja.gov/bwc/">https://www.bja.gov/bwc/</a></li>
-<li><a href="https://www.justice.gov/iso/opa/resources/472014912134715246869.pdf">https://www.justice.gov/iso/opa/resources/472014912134715246869.pdf</a>  </li>
-<li><a href="http://www.nij.gov/topics/law-enforcement/technology/pages/body-worn-cameras.aspx">http://www.nij.gov/topics/law-enforcement/technology/pages/body-worn-cameras.aspx</a>  </li>
-<li><a href="https://www.bja.gov/bwc/Topics-Policy.html">https://www.bja.gov/bwc/Topics-Policy.html</a>  </li>
-<li><a href="http://cops.usdoj.gov/html/dispatch/10-2014/body_worn_camera_program.asp">http://cops.usdoj.gov/html/dispatch/10-2014/body_worn_camera_program.asp</a>
-  - <a href="http://ric-zai-inc.com/ric.php?page=detail&amp;id=COPS-P296">http://ric-zai-inc.com/ric.php?page=detail&amp;id=COPS-P296</a>  </li>
-<li><a href="http://www.justiceinpolicing.com/policy-reforms/community-control/policy-10-body-cameras/">http://www.justiceinpolicing.com/policy-reforms/community-control/policy-10-body-cameras/</a></li>
-<li><a href="https://www.ojpdiagnosticcenter.org/sites/default/files/spotlight/download/Police%20Officer%20Body-Worn%20Cameras.pdf">https://www.ojpdiagnosticcenter.org/sites/default/files/spotlight/download/Police%20Officer%20Body-Worn%20Cameras.pdf</a></li>
-</ul>
-<h3 id="austin-cut-city-documents">Austin cut: City Documents</h3>
-<ul>
-<li><a href="https://rcfp.org/bodycam_policies/TX/Austin_BWC_Policy.pdf">Old body cam policy (to be replaced soon)</a></li>
-<li><a href="http://www.austintexas.gov/APDbodycam">City of Austin body cam resource page</a> </li>
-</ul>
-</div></section>
-
-	</div>
-
-	<footer>
-		<div class="inner_content">
-  <div class="center-text">
-    <img src="images/logo_OpenAustin_White.png" alt="Open Austin Logo"/>
-  </div>
-  <div class="about">
-    <p>This resource is brought to you by <a href="http://www.twitter.com/openaustin" target="_blank">@openaustin</a>.</p>
-  </div>
-</div>
-
-	</footer>
+<footer>
+  {% include footer.html %}
+</footer>
 
 <a href="#" class="back-to-top">Back to Top</a>
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
 <script src="js/index.js"></script>
-</body>
-</html>

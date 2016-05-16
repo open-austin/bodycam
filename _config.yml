@@ -1,0 +1,12 @@
+# Site settings
+title: Austin Body Camera
+email: info@open-austin.org
+description:
+  "Austin Police Department (APD) will soon be equipped with body-worn cameras. Find out more about what this technology means for police accountability, government transparency and individual privacy."
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://atxbodycam.com" # the base hostname & protocol for your site
+twitter_username: openaustin
+github_username:  open-austin
+
+# Build settings
+markdown: kramdown
