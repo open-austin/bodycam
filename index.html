@@ -12,22 +12,41 @@ layout: default
     </div>
   </section>
   <section class="section section--alt-bg">
-    <div class="inner-content">{% markdown why.md %}</div>
+    <div class="inner-content">
+      {% capture why %}{% include why.md %}{% endcapture %}
+      {{ why | markdownify }}
+    </div>
   </section>
   <section class="section">
     <div class="inner-content">{% include texas.html %}</div>
   </section>
   <section class="section section--alt-bg">
-    <div class="inner-content">{% markdown austin.md %}</div>
+    <div class="inner-content">
+      {% capture austin %}{% include austin.md %}{% endcapture %}
+      {{ austin | markdownify }}
+    </div>
   </section>
   <section class="section">
     <div class="inner-content">{% include privacy_and_accountability.html %}</div>
   </section>
-  <section>
-    <div class="inner-content">{% markdown opt_in.md %}</div>
+  <section class="section section--alt-bg">
+    <div class="inner-content">
+      {% capture opt_in %}{% include opt_in.md %}{% endcapture %}
+      {{ opt_in | markdownify }}
+    </div>
   </section>
-  <section class="section"><div class="inner-content">{% markdown vendors.md %}</div></section>
-  <section class="section"><div class="inner-content">{% markdown resources.md %}</div></section>
+  <section class="section">
+    <div class="inner-content">
+      {% capture vendors %}{% include vendors.md %}{% endcapture %}
+      {{ vendors | markdownify }}
+    </div>
+  </section>
+  <section class="section section--alt-bg">
+    <div class="inner-content">
+      {% capture resources %}{% include resources.md %}{% endcapture %}
+      {{ resources | markdownify }}
+    </div>
+  </section>
 
 </div>
 
