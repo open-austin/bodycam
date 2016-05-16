@@ -25,5 +25,10 @@
 
 ### Austin cut: City Documents
 
+- [Recommendation for Council Purchasing - Texas Department of Information Resources](/documents/DIR_APD_051916_1.PDF)
+- [Recommendation for Council Purchasing - TASER 1](/documents/TASER_APD_051916_1.PDF)
+- [Recommendation for Council Purchasing - TASER 2](/documents/TASER_APD_051916_2.PDF)
+- [APD Body Worn Camera Vendor Matrix](/documents/TASER_APD_051916_matrix.PDF)
 - [Old body cam policy (to be replaced soon)](https://rcfp.org/bodycam_policies/TX/Austin_BWC_Policy.pdf)
 - [City of Austin body cam resource page](http://www.austintexas.gov/APDbodycam)
+
