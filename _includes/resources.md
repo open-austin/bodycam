@@ -8,7 +8,7 @@
 - [Los Angeles Times - Who gets to see police body camera footage? State lawmakers may decide this year](http://www.latimes.com/politics/la-pol-sac-police-body-camera-bills-20160320-story.html)
 - [Yale Media Freedom & Information Access Clinic - Police Body Cam Footage: Just Another Public Record](http://isp.yale.edu/sites/default/files/publications/police_body_camera_footage-_just_another_public_record.pdf)
 - [Cato Institute's National Police Misconduct Reporting Project](http://www.policemisconduct.net/explainers/police-body-cameras/)
-- [Urban Institute - Police Body-Worn Cameras: Where Your State Stands](Police Body-Worn Cameras: Where Your State Stands)
+- [Urban Institute - Police Body-Worn Cameras: Where Your State Stands](http://apps.urban.org/features/body-camera/)
 - [ACLU - Police Body-Mounted Cameras: With Right Policies in Place, A Win For All](https://www.aclu.org/police-body-mounted-cameras-right-policies-place-win-all)
 
 ### Deep cut: Getting more wonky...
