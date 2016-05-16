@@ -29,6 +29,8 @@
 - [Recommendation for Council Purchasing - TASER 1](/documents/TASER_APD_051916_1.PDF)
 - [Recommendation for Council Purchasing - TASER 2](/documents/TASER_APD_051916_2.PDF)
 - [APD Body Worn Camera Vendor Matrix](/documents/TASER_APD_051916_matrix.PDF)
-- [Old body cam policy (to be replaced soon)](https://rcfp.org/bodycam_policies/TX/Austin_BWC_Policy.pdf)
+- [New body cam policy issued May 16, 2016](http://www.austintexas.gov/sites/default/files/files/Police/BWC_Policy.pdf)
+- [Compare APD body cam policy to recommendations from various groups] (/documents/National_Body_Cam_Policy_Recommendations_Chart.pdf
 - [City of Austin body cam resource page](http://www.austintexas.gov/APDbodycam)
+
 
