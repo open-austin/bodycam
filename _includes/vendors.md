@@ -18,4 +18,4 @@ Taser has a great business model. It sells weapons for which you have to buy car
 
 > -- Taser's 10k filed with the SEC
 
-_APD has not yet released the contact details of their new agreement with Taser. We will post it here as soon as it's available._
+_APD has now released the proposed contract details for their purchase of Taser products and services. Here are their purchasing recommendations for Council to consider at their Thursday, May 19th Meeting. [Page 1](/documents/TASER_APD_051916_1.PDF) & [Page 2](/documents/TASER_APD_051916_2.PDF)_
