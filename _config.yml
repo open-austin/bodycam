@@ -10,3 +10,10 @@ github_username:  open-austin
 
 # Build settings
 markdown: kramdown
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      permalink: /posts/:year/:month/:day/:title
