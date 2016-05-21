@@ -5,7 +5,7 @@ title: Latest Updates
 
 <ul>
   {% for post in site.posts %}
-    <li>
+    <li class="post-index-item">
       <p class="post-meta">{{ post.date | date: "%b %-d, %Y" }}{% if post.author %} • {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}</p>
       <a href="{{ post.url }}"><h2>{{ post.title }}</h2></a>
       {{ post.excerpt }}
