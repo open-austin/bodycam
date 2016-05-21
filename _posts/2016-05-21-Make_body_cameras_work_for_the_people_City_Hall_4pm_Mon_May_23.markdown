@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Make body cameras work for the people: City Hall, 4pm Mon May 23
-date:   2016-05-12 11:00:00
+date:   2016-05-21 11:00:00
 ---
 Come to Council, Monday, May 23 4pm: Help make body cameras work for the people!
 
