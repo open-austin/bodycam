@@ -7,7 +7,8 @@ Come to Council, Monday, May 23 4pm: Help make body cameras work for the people!
 
 The [policy, just released by APD](http://www.austintexas.gov/sites/default/files/files/Police/BWC_Policy.pdf), does require the cameras to be turned on during most interactions with the public. 
 
-BUT 
+BUT:
+
 -	it **gives individual officers a great deal of discretion** to decide when to turn them off to address privacy concerns;
 -	it **does not require officers to explain why they are turning off the video** right there on the video before turning it off, although that would be simpler and more easily verified than writing an explanation in a report later;
 -	it **does not address how video will be made available to the public**, and actually prohibits copies being given to people who file complaints against officers;
