@@ -5,7 +5,7 @@ date:   2016-05-21 11:00:00
 ---
 Come to Council, Monday, May 23 4pm: Help make body cameras work for the people! The Public Safety Committee of City Council on Monday will meet to hear what the public has to say about the use of police body cameras.
 
-The [policy, just released by APD](http://www.austintexas.gov/sites/default/files/files/Police/BWC_Policy.pdf), does require the cameras to be turned on during most interactions with the public. 
+The [Austin Body Cam policy, just released by APD](http://www.austintexas.gov/sites/default/files/files/Police/BWC_Policy.pdf), does require the cameras to be turned on during most interactions with the public. 
 
 BUT:
 
