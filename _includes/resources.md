@@ -26,6 +26,7 @@
 ### Austin cut: City Documents
 
 - [Community comment on new APD policy](/documents/Community_release_APD_body_cam_051716.pdf)
+- [Texas Criminal Justice Coalition Recommendations](/documents/APD Camera Implementation Final 052116.pdf)
 - [Recommendation for Council Purchasing - Texas Department of Information Resources](/documents/DIR_APD_051916_1.PDF)
 - [Recommendation for Council Purchasing - TASER 1](/documents/TASER_APD_051916_1.PDF)
 - [Recommendation for Council Purchasing - TASER 2](/documents/TASER_APD_051916_2.PDF)
