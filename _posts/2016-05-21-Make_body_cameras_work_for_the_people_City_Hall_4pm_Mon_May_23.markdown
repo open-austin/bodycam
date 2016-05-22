@@ -21,4 +21,6 @@ BUT:
 
 We have a great opportunity on Monday. The [Council members on this committee](http://www.austintexas.gov/department/public-safety-committee) can direct APD to produce a better policy before the Council comes back in June to approve the contract to buy cameras. These members have already shown an interest in the public's views on many of these specific issues. See the public comment and member discussion from [last Thursday's Council meeting here (Item 30/31)](http://austintx.swagit.com/play/05192016-584/0/). 
 
+For a more detailed discussion of all this, see [this memo from the Texas Criminal Justice Coalition.](/documents/APD%20Camera%20Implementation%20Final%20052116.pdf)
+
 **Come and speak from the heart. Come and speak to the issue that most concerns you. But please, come and speak.**
