@@ -23,7 +23,7 @@
 - [The Center for Popular Democracy, Justice in Policing Toolkit - Body Cameras](http://www.justiceinpolicing.com/policy-reforms/community-control/policy-10-body-cameras/)
 - [Police Officer Body-Worn Cameras: Assessing the Evidence by Michael D. White, PhD](https://www.ojpdiagnosticcenter.org/sites/default/files/spotlight/download/Police%20Officer%20Body-Worn%20Cameras.pdf)
 
-### Austin cut: City Documents
+### Austin cut: City Documents and Community Response
 
 - [Community comment on new APD policy](/documents/Community_release_APD_body_cam_051716.pdf)
 - [Texas Criminal Justice Coalition Recommendations](/documents/APD Camera Implementation Final 052116.pdf)
