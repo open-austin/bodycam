@@ -4,17 +4,15 @@ title:  Body Cameras Back on Council Agenda June 9, 2016
 date:   2016-06-09 09:00:00
 ---
 
-<h1>Community Groups ask Council to Postpone Body Camera Vote Again</h1>
-
 Six organizations representing a wide range of interests met with APD and APA representatives on Tuesday June 7 at the Office of Police Monitor. Afterwards, several of the groups issued [a recommendation that City Council postpone its vote](/documents/Community_release_APD_body_cam_060816.pdf) on the body camera contract one more time.
 
-##Why?##
+<h2>Why?</h2>
 
 The main item of interest -- when and how certain "critical incident" video would be released to the public -- was pulled off the table altogether. APD said that other parties needed to be included. 
 
 Even a discussion about a parent's right to see video of an interaction involving their own child on school grounds did not get very far. 
 
-Groups left the meeting with no clear sense of whether there would be any real negotiation on the topic of transparency, and today will ask that Council postpone its vote in order to allow this second proposed meeting to take place.
+<b>Groups left the meeting with no clear sense of whether there would be any real negotiation on the topic of transparency</b>, and today will ask that Council postpone its vote in order to allow this second proposed meeting to take place.
 
 In general, groups found room to negotiate for some improvements in how the policy will guide officers day to day. APD agreed to changes in the overall purpose of the body camera policy, and agreed in principle to add a provision specifying that cameras would only be used at first amendment protected events when an officer had reason to believe a crime was being committed. APD agreed to add a provision specifying that officers should tell civilians that they are being videotaped.
 
