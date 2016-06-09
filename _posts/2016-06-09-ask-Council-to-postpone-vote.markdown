@@ -4,10 +4,10 @@ title:  Body Cameras Back on Council Agenda June 9, 2016
 date:   2016-06-09 09:00:00
 ---
 
-#Community Groups ask Council to Postpone Body Camera Vote Again
+#Community Groups ask Council to Postpone Body Camera Vote Again#
 Six organizations representing a wide range of interests met with APD and APA representatives on Tuesday June 7 at the Office of Police Monitor. Afterwards, several of the groups issued [a recommendation that City Council postpone its vote](/documents/Community_release_APD_body_cam_060816.pdf) on the body camera contract one more time.
 
-##Why?
+##Why?##
 
 The main item of interest -- when and how certain "critical incident" video would be released to the public -- was pulled off the table altogether. APD said that other parties needed to be included. 
 
