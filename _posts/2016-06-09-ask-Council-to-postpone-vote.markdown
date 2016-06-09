@@ -20,5 +20,5 @@ Community groups asked for a stronger framework to guide the wide officer discre
 
 It is clear that real discussion between APD and the public in the formulation of policy is unusual. It is equally clear that this discussion might lead to real improvements, making the body camera program work better for both the public and for officers -- if the next draft is better than the last and the meeting on transparency is fruitful. 
 
-Take a moment right now to ask that Council will give these initial discussions more time before a final vote on the contract. 
+<b>Take a moment right now to [ask that Council will give these initial discussions a little more time](https://www.austintexas.gov/email/all-council-members) before a final vote on the contract.</b> 
 
