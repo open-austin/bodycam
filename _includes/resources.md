@@ -25,6 +25,7 @@
 
 ### Austin cut: City Documents and Community Response
 
+- [Community comment on negotiations with APD June 8 2016](/documents/Community_release_APD_body_cam_060816.pdf)
 - [Community comment on new APD policy](/documents/Community_release_APD_body_cam_051716.pdf)
 - [Texas Criminal Justice Coalition Recommendations](/documents/APD Camera Implementation Final 052116.pdf)
 - [Recommendation for Council Purchasing - Texas Department of Information Resources](/documents/DIR_APD_051916_1.PDF)
