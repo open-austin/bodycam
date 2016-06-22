@@ -26,6 +26,7 @@
 
 ### Austin cut: City Documents and Community Response
 
+- [June 22--Community comment on progress with APD negotiations](/documents/Community_release_APD_body_cam_062216.pdf)
 - [May 27--Utility protests Taser winning bid based on transparency](/documents/Austin Award Protest May 27 2016-1.pdf)
 - [June 8--City of Austin denies Utility protest](/documents/Protest Decision - RFP EAD0124 - Utility.PDF)
 - [June 22--APD draft policy changes provided to City Council](http://austin.siretechnologies.com/sirepub/mtgviewer.aspx?meetid=1208&doctype=AGENDA)
