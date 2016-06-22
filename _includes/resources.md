@@ -27,6 +27,7 @@
 ### Austin cut: City Documents and Community Response
 
 - [Utility protests Taser as body camera vendor based on transparency](/documents/Austin Award Protest May 27 2016-1.pdf)
+- [City of Austin denies Utility protest](/documents/Protest Decision - RFP EAD0124 - Utility.PDF)
 - [Does alternate vendor provide improved tools for public release of video?](/documents/Police Transparency and Video Redaction.pdf)
 - [Utility sales pitch for its Gen 2 cameras still a good summary of needed functions](/documents/Generation_2_Body-Worn_Cameras_and_the_Evidence__EcoSystem.pdf)
 - [Community comment on negotiations with APD June 8 2016](/documents/Community_release_APD_body_cam_060816.pdf)
