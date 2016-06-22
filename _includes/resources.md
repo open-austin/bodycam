@@ -2,6 +2,7 @@
 
 ### First cut: Are body cameras making police more accountable?
 
+- [Recent study: Body cam video most often supports officers](/document/Phoenix Smart Policing Study Sept 2015.pdf)
 - [Center for Constitutional Rights - Rush to Body Cameras Does Little to Create Police Accountability](https://ccrjustice.org/home/blog/2016/03/09/rush-body-cameras-does-little-create-police-accountability)
 - [Washington Post - Police body cameras: A struggle over who controls the footage](https://www.washingtonpost.com/video/national/police-body-cameras-no-oversight-silver-bullet/2015/10/08/2f97f7d0-6e07-11e5-91eb-27ad15c2b723_video.htm)
 - [Huffington Post - How A Police Body Camera Law Gets Chewed Up And Spit Out](http://www.huffingtonpost.com/entry/kansas-police-body-camera-law_us_56bca6e6e4b0b40245c57776)
