@@ -4,7 +4,7 @@ title:  Taser contract back on Council agenda tomorrow: improvements to policy m
 date:   2016-06-22 16:50:00
 ---
 <h1>Community groups report modest progress as Council reconsiders Taser contract for the third time</h1>
-<p>Taser's 12 million dollar contract for police body cameras comes back to Council tomorrow. After Council pointedly directed APD to negotiate with community groups about release of critical incident and other video, the groups had [this to say.](/documents/Community_release_APD_body_cam_062216.pdf)</p>
+<p>Taser's 12 million dollar contract for police body cameras comes back to Council tomorrow. After Council pointedly directed APD to negotiate with community groups about release of critical incident and other video, the groups had [this to say.](http://www.atxbodycam.com/documents/Community_release_APD_body_cam_062216.pdf)</p>
 <p>After Councilmembers raised a number of questions about the contract, APD provided an initial set of proposed changes to the body camera policy [(item 17b)](http://austin.siretechnologies.com/sirepub/mtgviewer.aspx?meetid=1208&doctype=AGENDA) that are responsive to some community concerns.</p>
 <p>But neither APD nor city legal demonstrated an inclination towards greater transparency. </p>
 <p>In addition to the vote on the Taser contract, Council has scheduled an executive session on access to public information. City legal will likely have a lot to say, and council won't be hearing competing views during that session.</p>
