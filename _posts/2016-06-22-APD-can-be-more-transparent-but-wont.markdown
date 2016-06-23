@@ -4,7 +4,9 @@ title:  "Taser contract back on Council agenda tomorrow: improvements to policy 
 date:   2016-06-22 16:50:00
 ---
 
-Community groups report modest progress as Council reconsiders Taser contract for the third time
+Community groups report modest progress as Council reconsiders Taser contract for the third time.
+
+UPDATE--<strong>City Council will reach this item early to mid-afternoon. If you wish to speak or donate your time so activists can have more than three minutes, come on down!</strong>
 
 Taser's 12 million dollar contract for police body cameras comes back to Council tomorrow. After Council pointedly directed APD to negotiate with community groups about release of critical incident and other video, the groups had [this to say.](http://www.atxbodycam.com/documents/Community_release_APD_body_cam_062216.pdf)
 
