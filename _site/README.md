@@ -1,7 +1,12 @@
 # Austin Body Cam
 ## Informational site about Austin's body camera policy.
-## _Work in progress_
 
-`npm install`
+### Dependencies
+- Jekyll
+- Ruby
 
-`gulp`
+```
+bundle install
+jekyll serve # localhost:4000
+```
+
