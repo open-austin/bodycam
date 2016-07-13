@@ -26,6 +26,7 @@
 
 ### Austin cut: City Documents and Community Response
 
+- [Summary of community demands for body camera policy revisions](/documents/Community_bullets_APD_body_cam_060616.pdf)
 - [Legal opinion--Yes SB 158 allows cities to choose transparency](/documents/Can-APD-release-footage.pdf.pdf)
 - [June 22--Community comment on progress with APD negotiations](/documents/Community_release_APD_body_cam_062216.pdf)
 - [May 27--Utility protests Taser winning bid based on transparency](/documents/Austin Award Protest May 27 2016-1.pdf)
