@@ -26,6 +26,7 @@
 
 ### Austin cut: City Documents and Community Response
 
+- [Fatima Mann, Austin Justice Coalition--why we need access to body cam video, on 1 Year anniversary of Sandra Bland's death](http://www.twcnews.com/tx/austin/news/2016/07/13/body-cameras-in-the-wake-of-officer-involved-shootings.html)
 - [Summary of community demands for body camera policy revisions](/documents/Community_bullets_APD_body_cam_071316.pdf)
 - [Legal opinion--Yes SB 158 allows cities to choose transparency](/documents/Can-APD-release-footage.pdf.pdf)
 - [June 22--Community comment on progress with APD negotiations](/documents/Community_release_APD_body_cam_062216.pdf)
