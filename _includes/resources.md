@@ -29,7 +29,7 @@
 - [Fatima Mann, Austin Justice Coalition--why we need access to body cam video, on 1 Year anniversary of Sandra Bland's death](http://www.twcnews.com/tx/austin/news/2016/07/13/body-cameras-in-the-wake-of-officer-involved-shootings.html)
 - [Summary of community demands for body camera policy revisions](/documents/Community_bullets_APD_body_cam_071316.pdf)
 - [Legal opinion--Yes SB 158 allows cities to choose transparency](/documents/Can-APD-release-footage.pdf.pdf)
-- [Council creates 120 day process to negotiate transparency](/documents/Council_Resolution_060916.pdf)
+- [Council creates 120 day process to negotiate transparency: Deadline Oct 7](/documents/Council_Resolution_060916.pdf)
 - [June 22--Community comment on progress with APD negotiations](/documents/Community_release_APD_body_cam_062216.pdf)
 - [May 27--Utility protests Taser winning bid based on transparency](/documents/Austin Award Protest May 27 2016-1.pdf)
 - [June 8--City of Austin denies Utility protest](/documents/Protest Decision - RFP EAD0124 - Utility.PDF)
